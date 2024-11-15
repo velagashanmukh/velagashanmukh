@@ -35,7 +35,7 @@ I'm a passionate developer from India, skilled in both front-end and data analyt
 
 | **Degala Sai Prasanna's GitHub Stats** | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=velagashanmukh&show_icons=true&hide=prs&theme=default) |
 | --- | --- |
-| **Total Stars Earned:** | 6 |
+| **Total Stars Earned:** | 0 |
 | **Total Commits (2024):** | 0 |
 | **Total PRs:** | 0 |
 | **Total Issues:** | 0 |
