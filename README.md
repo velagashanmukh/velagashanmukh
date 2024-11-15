@@ -31,7 +31,7 @@ I'm a passionate developer from India, skilled in both front-end and data analyt
 ---
 
 ### GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=degalasaiprasanna&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=velagashanmukh&label=Profile%20views&color=0e75b6&style=flat)
 
 | **Degala Sai Prasanna's GitHub Stats** | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=velagashanmukh&show_icons=true&hide=prs&theme=default) |
 | --- | --- |
