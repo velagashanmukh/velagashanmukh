@@ -36,7 +36,7 @@ I'm a passionate developer from India, skilled in both front-end and data analyt
 | **velaga shanmukh** | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=velagashanmukh&show_icons=true&hide=prs&theme=default) |
 | --- | --- |
 | **Total Stars Earned:** | 0 |
-| **Total Commits (2024):** | 0 |
+| **Total Commits (2024):** | 4 |
 | **Total PRs:** | 0 |
 | **Total Issues:** | 0 |
 | **Contributed to (last year):** | 0 |
