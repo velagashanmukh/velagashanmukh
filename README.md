@@ -9,13 +9,13 @@
 
 I'm a passionate developer from India, skilled in both front-end and data analytics tools.
 
-- 🌐 **All of my projects** are available at [https://linktr.ee/degalasaiprasanna](https://linktr.ee/degalasaiprasanna)
-- 📧 **How to reach me**: [saiprasannadegalai19@gmail.com](mailto:saiprasannadegalai19@gmail.com)
+- 🌐 **All of my projects** are available at [[(https://velagashanmukh.github.io/Data-Analyst-Portfolio/)](https://velagashanmukh.github.io/Data-Analyst-Portfolio/)]
+- 📧 **How to reach me**: [velagashanmukh@gmail.com](mailto:saiprasannadegalai19@gmail.com)
 
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/degalasaiprasanna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velaga-shanmukh/)
 
 ---
 
@@ -33,7 +33,7 @@ I'm a passionate developer from India, skilled in both front-end and data analyt
 ### GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=degalasaiprasanna&label=Profile%20views&color=0e75b6&style=flat)
 
-| **Degala Sai Prasanna's GitHub Stats** | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=degalasaiprasanna&show_icons=true&hide=prs&theme=default) |
+| **Degala Sai Prasanna's GitHub Stats** | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=velagashanmukh&show_icons=true&hide=prs&theme=default) |
 | --- | --- |
 | **Total Stars Earned:** | 6 |
 | **Total Commits (2024):** | 0 |
@@ -44,7 +44,7 @@ I'm a passionate developer from India, skilled in both front-end and data analyt
 ---
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degalasaiprasanna&layout=compact&hide=jupyter%20notebook&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velagashanmukh&layout=compact&hide=jupyter%20notebook&theme=default)
 
 ---
 
